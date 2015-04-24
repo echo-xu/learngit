@@ -7,3 +7,4 @@ add feature1 change
 
 add feature1 change again
 add master change again
+add feature1 third
